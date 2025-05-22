@@ -46,7 +46,7 @@ lambda kv:(kv[1], kv[0])))
 ```
 
 ## Output
-![Screenshot (146)](https://github.com/user-attachments/assets/5d91e8d6-c238-48b2-90d5-9ed7f0cd8874)
+![image](https://github.com/user-attachments/assets/faf66645-1afb-472e-93bf-fd0ca9611c69)
 
 ## Result
 Thus,the program has been executed successfully.
