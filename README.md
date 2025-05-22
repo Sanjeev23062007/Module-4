@@ -1,4 +1,4 @@
-# MODULE-1
+# MODULE-4
 # Classes and Objects in Python: Calculate the Area of a Circle
 
 ## 🎯 Aim
@@ -29,7 +29,6 @@ res.slot()
 ## Result
 Thus,the program has been executed successfully.
 
-# MODULE-2
 ## Dictionary Operations in Python: Merging Two Dictionaries
 
 ## 🎯 Aim
@@ -57,7 +56,6 @@ print(dict3)
 ## Result
 Thus,the program has been executed successfully.
 
-# MODULE-3
 # 🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values
 
 This Python program demonstrates how to sort a dictionary:
@@ -111,7 +109,6 @@ lambda kv:(kv[1], kv[0])))
 ## Result
 Thus,the program has been executed successfully.
 
-# MODULE-4
 # Exception Handling in Python: Avoiding Index Errors
 
 ## 🎯 Aim
@@ -138,7 +135,6 @@ except IndexError:
 ## Result
 Thus,the program has been executed successfully.
 
-# MODULE-5
 # File Handling in Python: Count Lines Not Starting with 'T'
 
 ## 🎯 Aim
